@@ -15,3 +15,8 @@ your friends and family! Once you visit a landmark and leave, you cannot return 
 * 1 month: $9.99
 * 3 months: $14.99
 * 1 year: $19.99
+
+
+
+<small>Having issues? join our support Discord <a href="https://discord.gg/5qXePbSs">here</a>!</small>
+<small><small>Unable to use the link above? Use this one here: https://tinyurl.com/paths-support</small><small>
