@@ -2,7 +2,7 @@
 
 Navigate the world with others digitally
 
-## Description (temporary)
+## Description
 
 Welcome to Paths, an app where you're able to navigate the Earth, leave comments, learn culture, facts, explore secrets, with 
 your friends and family! Once you visit a landmark and leave, you cannot return until your path is archived.
